@@ -1,5 +1,9 @@
 == README
 
+# Ruby on Rails Tutorial: "hello, world!"
+
+This is the first Ruby on Rails application for Michael Coghill!
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
